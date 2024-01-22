@@ -3,10 +3,6 @@
 http://103.132.181.118:82/play/a00x
 #EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="& Pictures HD [Multi Audio]" tvg-logo="https://i.postimg.cc/s2c7zdvW/picture_2.jpg" group-title="BDIX",& Pictures HD [Multi Audio]
 http://103.132.181.118:82/play/a01b
-#EXTINF:-1 tvg-chno="4" tvg-id="(no tvg-id)" tvg-name="& TV HD" tvg-logo="https://i.postimg.cc/nhQ3JzH9/download-5.jpg" group-title="BDIX",& TV HD
-https://cdn.retosprime.com/ayna.php?id=102&e=.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="(no tvg-id)" tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/DwR991sv/25270783-6de5-4ddf-b207-b6376ae989bc-180x180-ASports.jpg" group-title="BDIX",A Sports HD
-https://cdn.retosprime.com/ayna.php?id=68&e=.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="(no tvg-id)" tvg-name="Akash Aath" tvg-logo="https://i.postimg.cc/jdzcL118/Akash-Aath-Logo.jpg" group-title="BDIX",Akash Aath
 https://cdn.retosprime.com/ayna.php?id=135&e=.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="(no tvg-id)" tvg-name="Anando TV" tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg" group-title="BDIX",Anando TV
