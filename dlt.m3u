@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:88,#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
@@ -1942,3 +1942,4 @@ https://stream-154.zeno.fm/risgdzpf1cxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://audio.streamcast.xyz/radio/8000/radio.mp3
+
